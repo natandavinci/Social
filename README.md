@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
-
+Link Rápido: https://natandavinci.github.io/Social/
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nUIyNTG9qYHWu4IYStWvy3/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-350&mode=design&t=0rIczQ2gLmFP4LqP-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
